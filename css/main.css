@@ -1,0 +1,125 @@
+/*** sectioning elements ***/
+
+body {
+  background-color: #00050c;
+  text-align: center;
+  color: #ffffff;
+}
+
+header {
+
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+color: #8e582f
+}
+
+h2 {
+color: #ffffff
+}
+
+h3 {
+color: #ffffff
+}
+
+h4 {
+color: #b2562e
+}
+
+h5 {
+color: #ffffff
+}
+
+h6 {
+color: #ffffff
+}
+
+p {
+
+}
+
+blockquote {
+color: #ffffff
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+color: #b2562e;
+border: auto;
+width: 100%;
+padding: 0;
+margin: 0;
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
+}
